@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>singleopIcon24.png</file>
+        <file>FileOpenFail.png</file>
+        <file>FileNotSelected.png</file>
+        <file>FileOpenSucc.png</file>
+        <file>rightUpIcon.png</file>
+    </qresource>
+</RCC>
